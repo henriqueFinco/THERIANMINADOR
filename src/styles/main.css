@@ -1,5 +1,5 @@
 body{
-    background-image: url(./src/images/fundo.jpeg);
+    background-image: url(./images/fundo.jpeg);
 }
 .container{
     display: flex;
@@ -30,7 +30,7 @@ body{
     background-color: rgb(84, 108, 108);
 }
 .enemy{
-    background-image: url(./images/inimigo.jpeg);
+    background-image: url(../images/inimigo.jpeg);
     background-size: cover;
 }
 .fotinha{
